@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/francisco-nunes/francisco-nunes/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/francisco-nunes/francisco-nunes/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###
 
